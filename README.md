@@ -4,7 +4,7 @@
 
 Tiện ích mở rộng cho trình duyệt Chrome giúp xem lịch âm, ngày hoàng đạo, tiết khí và đồng bộ lịch Google.
 
-🔗 **Xem trang giới thiệu:** [https://phatnt93.github.io/Lunar-Calendar-VN/](https://phatnt93.github.io/Lunar-Calendar-VN/)
+🔗 **Xem trang giới thiệu:** [https://phatnt93.github.io/-Lunar-Calendar-VN-Page/](https://phatnt93.github.io/-Lunar-Calendar-VN-Page)
 
 ## Tính năng nổi bật
 
